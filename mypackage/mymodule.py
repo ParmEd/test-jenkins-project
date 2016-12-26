@@ -6,3 +6,7 @@ def myfunction():
         return 0
 
     return 1
+
+def myfunction2():
+    """ An even stupider function """
+    return myfunction()
